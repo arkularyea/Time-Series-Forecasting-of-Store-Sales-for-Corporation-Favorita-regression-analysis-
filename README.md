@@ -245,4 +245,4 @@ Link to the project repository on GitHub: https://github.com/arkularyea/Time-Ser
 LINKEDIN : https://www.linkedin.com/pulse/time-series-forecasting-store-sales-corporation-analysis-nii-laryea
 
 
-MEDIUM: 
+MEDIUM: https://medium.com/@nlaryea70/introduction-6b45c68a9b76
