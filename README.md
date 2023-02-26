@@ -242,7 +242,7 @@ I’m also open to collaborating on projects.
 
 Link to the project repository on GitHub: https://github.com/arkularyea/Time-Series-Forecasting-of-Store-Sales-for-Corporation-Favorita-regression-analysis-.git
 
-LINKEDIN : 
+LINKEDIN : https://www.linkedin.com/pulse/time-series-forecasting-store-sales-corporation-analysis-nii-laryea
 
 
 MEDIUM: 
