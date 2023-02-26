@@ -238,7 +238,9 @@ Thank you so much for reading.
 I will be grateful for your comments, advice, suggestions, and recommendations. Too long or too short? Too detailed or missing some details? Please let me know. You can leave a comment here or find me on Twitter (@arku_laryea).
 
 I’m also open to collaborating on projects.
-Link to the project repository on GitHub: 
+
+
+Link to the project repository on GitHub: https://github.com/arkularyea/Time-Series-Forecasting-of-Store-Sales-for-Corporation-Favorita-regression-analysis-.git
 
 LINKEDIN : 
 
